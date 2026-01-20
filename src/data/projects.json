@@ -1,0 +1,20 @@
+[
+    {  
+        "id": 1,
+        "product": "Hyper-Drive Driver Core",
+        "description": "The ultimate marketplace engine. This core module manages high-speed transactions with the precision of a Rider Strike. Features a chrome-plated interface and real-time power level monitoring.",
+        "image": "/images/core.jpg"
+    },
+    {
+        "id": 2,
+        "product": "Sentinel Armor Specs",
+        "description": "Heavy-duty digital protection for your ecosystem. Integrated with the latest Henshin encryption layers to ensure your user data remains impenetrable against even the strongest threats.",
+        "image": "/images/armor.jpg"
+    },
+    {
+        "id": 3,
+        "product": "Apex Transformation Belt",
+        "description": "A full-stack wearable prototype. Access the MERN-power grid to switch between different tactical modes. Includes a glowing teal status ring and ergonomic carbon-fiber housing.",
+        "image": "/images/belt.jpg"
+    }
+]
